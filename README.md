@@ -14,7 +14,7 @@ Write your design steps here
 ## OUTPUT:
 include your output screenshots
 ![output](https://github.com/VINUTHNA-2004/wireframeproject/blob/main/Z1.PNG?raw=true)
-!{output](https://github.com/VINUTHNA-2004/wireframeproject/blob/main/j1.PNG?raw=true)
+![output](https://github.com/VINUTHNA-2004/wireframeproject/blob/main/j1.PNG?raw=true)
 ![output](https://github.com/VINUTHNA-2004/wireframeproject/blob/main/Z3.PNG?raw=true)
 
 
